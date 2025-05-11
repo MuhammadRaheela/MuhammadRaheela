@@ -51,11 +51,6 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake:
-<p align="center">
-  <img src="https://github.com/MuhammadRaheela/MuhammadRaheela/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
 ---
 
 ### ✨ Fun Fact:
