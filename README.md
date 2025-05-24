@@ -57,3 +57,5 @@
 - I think I'm funny 😄  
 - I love building beautiful, responsive websites and mobile apps!
 
+
+![image](https://github.com/user-attachments/assets/39546372-3ede-4851-b300-caa5d8013c99)
