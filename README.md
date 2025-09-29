@@ -64,6 +64,13 @@
 
 ---
 
+### 🐍 Contribution Snake Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MuhammadRaheela/MuhammadRaheela/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
 ### ✨ Fun Facts
 - 🎯 I love turning ideas into beautiful web & mobile experiences.
 - 🎨 I enjoy UI/UX design and learning new design trends.
