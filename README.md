@@ -1,56 +1,84 @@
-<h1 align="center">Hi there👋, I'm Muhammad Raheel Raza</h1>
-<h3 align="center">A Passionate Frontend & Mobile Developer from Pakistan 🇵🇰</h3>
+# 💫 Hi 👋, I'm Muhammad Raheel Raza  
+### 🏆 Certificates  
+
+<div align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" alt="Developer Illustration" width="200" style="border-radius:50%;" />
+</div>
+**A passionate Web Developer | Diploma in Information Technology (DIT)**  
+
+📧 **Email Me:** [muhraheel041@gmail.com](mailto:muhraheel041@gmail.com) — For Collaboration, Projects, or Anything Else 😊  
+
+![Profile views](https://komarev.com/ghpvc/?username=MuhammadRaheela&label=Profile%20Views&color=0e75b6&style=flat)  
+
+---
+
+🔭 **Currently working on:** React Native and Next.js projects  
+🌱 **Currently learning:** Advancing my skills through university studies  
+📫 **Reach me at:** [muhraheel041@gmail.com](mailto:muhraheel041@gmail.com)  
+😄 **Pronouns:** He/Him  
+⚡ **Fun fact:** I love writing code and reading books 📚  
+
+---
+
+<h3 align="center">A Passionate Frontend & Mobile Developer from Pakistan 🇵🇰</h3>  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=500&lines=Frontend+Web+%26+Mobile+Developer;React.js+%7C+Next.js+%7C+Tailwind+CSS;Lover+of+UI%2FUX+Design+%26+Creativity" alt="Typing SVG" />
-</p>
+</p>  
 
 ---
 
-### 🔗 Connect with me:
+### 🔗 Connect with me:  
 <p align="left">
   <a href="https://www.linkedin.com/in/your-username" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" /></a>
-  <a href="mailto:example@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" /></a>
-</p>
+  <a href="mailto:muhraheel041@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" /></a>
+</p>  
 
 ---
 
-### 💼 Skills & Technologies:
+### 💼 Skills & Technologies:  
 
-#### 👨‍💻 Frontend
+#### 👨‍💻 Frontend  
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,materialui" />
-</p>
+</p>  
 
-#### 🛠 Backend / Database
+#### 🛠 Backend / Database  
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase" />
-</p>
+</p>  
 
-#### 📱 Mobile Development
+#### 📱 Mobile Development  
 <p>
   <img src="https://skillicons.dev/icons?i=reactnative" />
-</p>
+</p>  
 
-#### 🎨 Design & Tools
+#### 🎨 Design & Tools  
 <p>
   <img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop,postman" />
-</p>
+</p>  
 
-#### 📊 Productivity
+#### 📊 Productivity  
 <p>
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
-</p>
+</p>  
 
-#### ⚙️ Dev Tools
+#### ⚙️ Dev Tools  
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,npm,vscode" />
-</p>
+</p>  
 
 ---
 
-### 📈 GitHub Stats
+### 🚧 Featured Projects  
+- [Portfolio Website](https://github.com/MuhammadRaheela/portfolio)  
+- [React Native App](https://github.com/MuhammadRaheela/app)  
+- [Next.js Blog](https://github.com/MuhammadRaheela/blog)  
+
+---
+
+### 📈 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuhammadRaheela&show_icons=true&theme=radical" />
@@ -60,23 +88,29 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadRaheela&layout=compact&theme=radical" />
-</p>
+</p>  
 
 ---
 
-### 🐍 Contribution Snake Animation
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+### 🔥 Contribution Graph  
+![Raheel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadRaheela&theme=radical)  
 
 ---
 
-### ✨ Fun Facts
-- 🎯 I love turning ideas into beautiful web & mobile experiences.
-- 🎨 I enjoy UI/UX design and learning new design trends.
-- 😄 I *think* I’m funny – but my code is even better.
-- 🌟 Always exploring new tools and frameworks.
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+### ✨ Fun Facts  
+- 🎯 I love turning ideas into beautiful web & mobile experiences.  
+- 🎨 I enjoy UI/UX design and learning new design trends.  
+- 😄 I *think* I’m funny – but my code is even better.  
+- 🌟 Always exploring new tools and frameworks.  
 
 ---
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MuhammadRaheela&theme=radical&margin-w=10&row=1&column=7" />
-</p>
+</p>  
