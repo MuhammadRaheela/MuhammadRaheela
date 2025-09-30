@@ -1,9 +1,4 @@
 # 💫 Hi 👋, I'm Muhammad Raheel Raza  
-### 🏆 Certificates  
-
-<div align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" alt="Developer Illustration" width="200" style="border-radius:50%;" />
-</div>
 **A passionate Web Developer | Diploma in Information Technology (DIT)**  
 
 📧 **Email Me:** [muhraheel041@gmail.com](mailto:muhraheel041@gmail.com) — For Collaboration, Projects, or Anything Else 😊  
